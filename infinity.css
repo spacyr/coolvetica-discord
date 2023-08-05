@@ -1,7 +1,7 @@
 @import url(https://nfld99.github.io/Better-Discord/Source_Code/Use_Fonts/Yes.css);
 @import url('https://fonts.cdnfonts.com/css/made-infinity-personal-use');
 :root {
---Chat-Font-Used: 'Made Infinity Personal Use', normal ;
+--Chat-Font-Used: 'MADE INFINITY PERSONAL USE', normal ;
 --Chat-Font-Size: 15.5px;
 }
 :not([class="hljs"]):not(code){
